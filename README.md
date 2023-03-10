@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**Geeth-Jayawardena/Geeth-Jayawardena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 🔭 I'm Geeth Jayawardena, a third-year undergraduate student at the University of Westminster London, UK affiliated with the Informatics Institute of Technology (IIT).<br>👯 I’m looking to collaborate on software development projects.<br>🌱 I’m currently learning Python.<br>⚡ Fun fact: Write a code.
 
